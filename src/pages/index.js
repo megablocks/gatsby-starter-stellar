@@ -72,24 +72,24 @@ class Index extends React.Component {
                 <span className="icon major style1 fa-code"></span>
                 <h3>Ipsum consequat</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  //Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
+                  //consequat tempus veroeros sed consequat.
                 </p>
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
                 <h3>Amed sed feugiat</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  //Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
+                  //consequat tempus veroeros sed consequat.
                 </p>
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
                 <h3>Dolor nullam</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  //Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
+                  //consequat tempus veroeros sed consequat.
                 </p>
               </li>
             </ul>
@@ -136,16 +136,7 @@ class Index extends React.Component {
               </li>
             </ul>
             <p className="content">
-              Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl
-              eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum
-              ac arcu sit amet, fermentum pellentesque et purus. Integer maximus
-              varius lorem, sed convallis diam accumsan sed. Etiam porttitor
-              placerat sapien, sed eleifend a enim pulvinar faucibus semper quis
-              ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer
-              eget purus nec nulla mattis et accumsan ut magna libero. Morbi
-              auctor iaculis porttitor. Sed ut magna ac risus et hendrerit
-              scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras
-              eu ornare dui curabitur lacinia.
+              Nam 
             </p>
             <footer className="major">
               <ul className="actions">
@@ -162,9 +153,7 @@ class Index extends React.Component {
             <header className="major">
               <h2>Congue imperdiet</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
                 <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
               </p>
             </header>
             <footer className="major">
