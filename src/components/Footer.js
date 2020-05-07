@@ -6,10 +6,10 @@ const Footer = props => (
     <section>
       <h2>Aliquam sed mauris</h2>
       <p>
-        Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat
-        magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras
-        aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae
-        tincidunt odio.
+      //  Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat
+      //  magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras
+       // aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae
+       // tincidunt odio.
       </p>
       <ul className="actions">
         <li>
@@ -66,7 +66,7 @@ const Footer = props => (
       </ul>
     </section>
     <p className="copyright">
-      &copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.
+     // &copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.
     </p>
   </footer>
 )
