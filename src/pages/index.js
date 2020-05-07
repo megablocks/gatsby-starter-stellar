@@ -148,6 +148,22 @@ class Index extends React.Component {
               </ul>
             </footer>
           </section>
+      
+      
+       <section id="fourth" className="main special">
+            <header className="major">
+              <h2>Ipsum consequat</h2>
+              <p>
+                Test
+              </p>
+            </header>
+            
+          </section>
+      
+      
+      
+      
+      
 
           <section id="cta" className="main special">
             <header className="major">
